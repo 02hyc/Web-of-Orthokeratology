@@ -1,0 +1,11 @@
+h1 {text-align:center;}
+h1 {font-size: 40px;}
+h2 {text-align:center;}
+p {text-align:center;}
+a {font-size: 20px;}
+
+.shadowbox_new {
+    width: 40em;
+    border: 1px solid rgb(253, 253, 253);
+    padding: 8px 12px;
+  }
